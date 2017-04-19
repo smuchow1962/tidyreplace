@@ -1,0 +1,33 @@
+{
+  "name": "tidyreplace",
+  "version": "1.0.0",
+  "description": "Extended native string replace method",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidysource/tidyreplace.git"
+  },
+  "keywords": [
+    "string",
+    "replace",
+    "regex"
+  ],
+  "author": "TidySource (Daniel Cobo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tidysource/tidyreplace/issues"
+  },
+  "homepage": "https://github.com/tidysource/tidyreplace#readme",
+  "devDependencies": {
+    "tidytest": "^1.0.1"
+  },
+  "dependencies": {
+    "tidyval": "^1.0.0"
+  }
+}
