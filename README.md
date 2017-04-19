@@ -19,7 +19,7 @@ properties generally available to newSubstr function:
 - offset (offset of the matched substring within the original string)
 
 ```javascript
-assert.plan(5);
+var replace = require('tidyreplace');
 
 replace('hello w', 'w', 'world') //"hello world"
 
