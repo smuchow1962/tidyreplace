@@ -13,7 +13,7 @@ Extended native string replace method
 are made available to the newSubstr function
 
 properties generally available to newSubstr function:
-- string (orginal string)
+- string (original string)
 - match (matched substring)
 - submatch (array of capturing groups matches)
 - offset (offset of the matched substring within the original string)
