@@ -33,7 +33,7 @@ module.exports = function replace(str, substr, newSubstr, data){
 							throw new Error ('Reserved property name used: ' + prop);
 						}
 					}
-					param = Object.assign(param, obj);
+					param = Object.assign(obj, param);
 				});
 			}
 
