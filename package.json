@@ -1,6 +1,6 @@
 {
   "name": "tidyreplace",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Extended native string replace method",
   "main": "index.js",
   "directories": {
